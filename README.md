@@ -105,3 +105,5 @@ Download and include the Chart.js library from Chart.js Official Site.
   - Dynamic Payment Calculation: Supports hourly and daily rental rates.
   - Bulk Action Capability: Simplifies admin tasks with multi-select approval/rejection.
   - Earnings Reports: Interactive, date-filtered graphs for better financial insights.
+
+For admin and user password mail at umretiya123@gmail.com
